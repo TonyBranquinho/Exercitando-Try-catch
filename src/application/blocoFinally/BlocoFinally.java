@@ -24,6 +24,7 @@ public class BlocoFinally {
 				sc.close();
 			}
 			System.out.println("Finally block executed");
+			System.out.println("Finally block executed");
 		}
 	}
 }
